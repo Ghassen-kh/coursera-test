@@ -1,0 +1,61 @@
+.row  {
+  margin: 25px;
+    background-color: gray;
+
+}
+
+
+
+h2{
+	 color: black;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+   
+    line-height: 0.75;
+	margin-bottom: 60px;
+}
+
+
+#header-nav {
+	background-color: gray;
+	border-radius: 0;
+	border: 3px ;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+	padding-left: 25px;
+}
+
+
+
+.navbar-brand h1 {
+
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 0.75;
+}
+
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+#nav-list {
+	margin-top: 10px;
+}
+
+#nav-list li {
+	text-align: center;
+	font-weight: bold;
+	margin-top: 10px;
+	color: black;
+	
+
+}
+h3{
+	color: black;
+}
